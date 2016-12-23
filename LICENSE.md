@@ -1,4 +1,4 @@
-plentymarkets plugin hello world
+plentymarkets plugin interface
 
 Copyright © 2016 plentymarkets GmbH
 

@@ -1,31 +1,25 @@
 ![plentymarkets Logo](http://www.plentymarkets.eu/layout/pm/images/logo/plentymarkets-logo.jpg)
 
-# Hello World plugin
+# plentymarkets Plugin Interface
 
-This is the **Hello World** plugin developed by plentymarkets.
+Interface for plentymarkets plugin development with [PHP 7](http://php.net/).
 
-## Requirements
-
-This is a plugin for [plentymarkets 7](https://www.plentymarkets.com). No other plugins are required for running the plugin.
 
 ## Installing
-
-For detailed information about plugin provisioning refer to [plentymarkets developers](https://developers.plentymarkets.com/dev-doc/basics#plugin-provisioning).
-
 
 Install using [Composer](https://getcomposer.org/) and a `composer.json`.
 
 ```json
 {
     "require": {
-        "plentymarkets/plugin-hello-world": "dev-master"
+        "plentymarkets/plugin-interface": "dev-beta7"
     }
 }
 ```
 
-For available versions see the corresponding [Packagist page](https://packagist.org/packages/plentymarkets/plugin-hello-world).
+For available versions see the corresponding [Packagist page](https://packagist.org/packages/plentymarkets/plugin-interface).
 
-For more basic information on package installation via Composer see this [introduction](https://getcomposer.org/doc/01-basic-usage.md).
+For more basic information on package installation via Compser see this [introduction](https://getcomposer.org/doc/01-basic-usage.md).
 
 ## Plugin documentation
 
